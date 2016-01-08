@@ -156,6 +156,7 @@
 		3FE39A241BA3348900F2BA4E /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0640;
 				ORGANIZATIONNAME = ecarroll;
 				TargetAttributes = {
@@ -411,6 +412,7 @@
 				3FE39A4D1BA3348900F2BA4E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3FE39A4E1BA3348900F2BA4E /* Build configuration list for PBXNativeTarget "Multiply AppTests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +421,7 @@
 				3FE39A501BA3348900F2BA4E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
